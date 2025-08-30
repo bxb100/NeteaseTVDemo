@@ -1,4 +1,4 @@
-# NeteaseTVDemo - tvOS 客户端(已改名Vibefy)
+# Vibefy - tvOS 客户端
 
 代码完全开源，支持以下功能：
 
